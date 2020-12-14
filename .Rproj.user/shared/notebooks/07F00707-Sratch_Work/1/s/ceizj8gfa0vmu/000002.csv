@@ -1,0 +1,6 @@
+"0","DF.Final <- DF.player.clean.3 %>% "
+"0","  mutate(Expected_Point_Current_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Current_Gameweek_Difficulty_Rating) %>% "
+"0","  mutate(Expected_Point_Next4_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Next4_Games_Difficulty_Rating) %>% "
+"0","  mutate(Expected_Point_Next6_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Next6_Games_Difficulty_Rating) %>% "
+"0","  arrange(desc(Expected_Point_Next4_Gameweek)) %>% "
+"0","  select(-c(Estimated_Player_Points_per_fixture_difficulty, Current_Gameweek_Difficulty_Rating, Next4_Games_Difficulty_Rating, Next6_Games_Difficulty_Rating))"

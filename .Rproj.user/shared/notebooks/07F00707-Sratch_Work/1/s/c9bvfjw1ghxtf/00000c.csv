@@ -1,0 +1,3 @@
+"0","#you will rename a the data each time for a new date"
+"0","DF.player.raw <- read.csv(""Source_Data/Player.Data.DEC13.csv"")"
+"0","DF.fixture.raw <- read.csv(""Source_Data/Fixture.Data.DEC13.csv"")"

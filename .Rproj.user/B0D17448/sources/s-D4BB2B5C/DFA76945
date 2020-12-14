@@ -1,0 +1,32 @@
+{
+    "id": "DFA76945",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607811980036.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "SPI.Games.Played.Table",
+        "caption": "SPI.Games.Played.Table",
+        "totalObservations": 20,
+        "displayedObservations": 20,
+        "variables": 2,
+        "cacheKey": "17FEF569",
+        "object": "SPI.Games.Played.Table",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=SPI.Games.Played.Table&cache_key=17FEF569&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 21474836485,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607811980036,
+    "read_only": false,
+    "read_only_alternatives": []
+}

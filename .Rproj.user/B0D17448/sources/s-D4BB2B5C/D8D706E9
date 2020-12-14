@@ -1,0 +1,32 @@
+{
+    "id": "D8D706E9",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1607971501381.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "expression": "DF.player.clean.3",
+        "caption": "DF.player.clean.3",
+        "totalObservations": 604,
+        "displayedObservations": 604,
+        "variables": 15,
+        "cacheKey": "22237091",
+        "object": "DF.player.clean.3",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=DF.player.clean.3&cache_key=22237091&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7308324465835925878,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1607971501381,
+    "read_only": false,
+    "read_only_alternatives": []
+}
