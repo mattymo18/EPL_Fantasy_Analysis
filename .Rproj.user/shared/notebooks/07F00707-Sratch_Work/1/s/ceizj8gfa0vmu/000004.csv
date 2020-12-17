@@ -1,0 +1,12 @@
+"0","DF.Final <- DF.player.clean.3 %>% 
+  mutate(Expected_Point_Current_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Current_Gameweek_Difficulty_Rating) %>% 
+  mutate(Expected_Point_Next4_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Next4_Games_Difficulty_Rating) %>% 
+  mutate(Expected_Point_Next6_Gameweek = Estimated_Player_Points_per_fixture_difficulty*Next6_Games_Difficulty_Rating) %>% 
+  select(-c(Estimated_Player_Points_per_fixture_difficulty, Current_Gameweek_Difficulty_Rating, Next4_Games_Difficulty_Rating, Next6_Games_Difficulty_Rating)) %>% 
+  filter(minutes >= Past.game.week*60) %>% 
+  filter(status == ""Available"") %>% 
+  mutate(Value = (Past.game.week*points_per_game)/cost) %>% 
+  arrane(desc(Value))
+"
+"2","Error in arrane(., desc(Value)) : could not find function ""arrane""
+"
