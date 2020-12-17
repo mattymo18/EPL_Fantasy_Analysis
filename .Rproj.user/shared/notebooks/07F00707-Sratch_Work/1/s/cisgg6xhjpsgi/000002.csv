@@ -1,4 +1,0 @@
-"0","#you will need to update current game week integer each week"
-"0","Current.game.week <- 13"
-"0",""
-"0","Past.game.week <- as.numeric(Current.game.week - 1)"

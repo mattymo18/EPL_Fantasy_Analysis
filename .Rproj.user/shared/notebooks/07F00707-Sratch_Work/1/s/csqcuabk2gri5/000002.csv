@@ -1,3 +1,0 @@
-"0","DF.player.clean <- DF.player.raw %>% "
-"0","  select(name, position, team, cost, status, minutes, total_points, points_per_game, "
-"0","         bonus, selected_by_percent)"

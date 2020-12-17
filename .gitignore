@@ -1,4 +1,4 @@
 Source_Data/*.csv
 Derived_Data/*.csv
 .Rhistory
-.Rproj
+.Rproj.user
