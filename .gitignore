@@ -2,3 +2,4 @@ Source_Data/*.csv
 Derived_Data/*.csv
 .Rhistory
 .Rproj.user
+.DS_Store
