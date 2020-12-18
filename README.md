@@ -30,13 +30,13 @@ Introduction
 
 This prroject provides the user with an automated data scraper for Fanatasy English Premier League Football. 
 
-## Data:
+#### Data:
 
-Data is taken from: < br/>
+Data is taken from: < /br>
 
-    > https://0e0c55ie39.execute-api.eu-central-1.amazonaws.com/default/fplAnalytics-DownloadPlayerStatusData
+https://0e0c55ie39.execute-api.eu-central-1.amazonaws.com/default/fplAnalytics-DownloadPlayerStatusData < /br>
     
-    > https://public.tableau.com/profile/timbayer#!/vizhome/PremierLeagueFixtures2021/PLFixtures
+https://public.tableau.com/profile/timbayer#!/vizhome/PremierLeagueFixtures2021/PLFixtures < /br>
     
 ##### Tableau Data:
 
