@@ -34,9 +34,9 @@ This prroject provides the user with an automated data scraper for Fanatasy Engl
 
 Data is taken from:
 
-https://0e0c55ie39.execute-api.eu-central-1.amazonaws.com/default/fplAnalytics-DownloadPlayerStatusData <br/ >
+https://0e0c55ie39.execute-api.eu-central-1.amazonaws.com/default/fplAnalytics-DownloadPlayerStatusData 
     
-https://public.tableau.com/profile/timbayer#!/vizhome/PremierLeagueFixtures2021/PLFixtures <br/ >
+https://public.tableau.com/profile/timbayer#!/vizhome/PremierLeagueFixtures2021/PLFixtures 
     
 ##### Tableau Data:
 
