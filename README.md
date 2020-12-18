@@ -1,8 +1,5 @@
 USAGE
 -----
-
-USAGE
------
 You'll need Docker and the ability to run Docker as your current user.
 
 You'll need to build the container:
@@ -28,7 +25,7 @@ Use artifacts before colon as make targets. Dependencies are listed after colon.
 Introduction
 ------------
 
-This prroject provides the user with an automated data scraper for Fanatasy English Premier League Football. 
+This project provides the user with an automated data scraper for Fanatasy English Premier League Football. Analysis builds pivot tables for expected points per gameweek and ranks players by current value.
 
 #### Data:
 
