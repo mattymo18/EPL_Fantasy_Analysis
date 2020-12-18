@@ -10,13 +10,13 @@ This Docker container is based on rocker/verse. To run rstudio server:
 
     > docker run -v `pwd`:/home/rstudio -p 8787:8787 -e PASSWORD=mypass -t EPL-Proj-Envir
       
-Then connect to the machine on port 8787.
+Then connect the machine on port 8787.
 
 #### Make
 Use Makefile as recipe book for building artifacts found in derived directories. 
 
 ##### Example:
-In local project directory, to build artifact named Raleigh.Clean.csv:
+In local project directory, to build artifact for Game Week 15, Final_Data.csv:
 
     > Game.Week=15 make Derived_Data/Final_Data.csv
     
